@@ -19,9 +19,6 @@ jboss/server/minimal/work/**/*
 # deployed package files #
 
 *.DEPLOYED
-### Java template
-# Compiled class file
-*.class
 
 # Log file
 *.log
@@ -33,7 +30,6 @@ jboss/server/minimal/work/**/*
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 *.zip
